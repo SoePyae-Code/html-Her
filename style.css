@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+}
+.photo{
+    width: 100%;
+    border: 5px solid white;
+}
+.sender{
+    text-align: right;
+}
